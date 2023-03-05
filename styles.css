@@ -1,0 +1,72 @@
+/* IDS */
+
+#title{
+    background-color: #2B2E4A;
+    padding-bottom: 100rem;
+}
+
+#aboutme{
+    background-color: #E84545;
+    padding-bottom: 100rem;
+}
+
+#projects{
+    background-color: #903749;
+    padding-bottom: 100rem;
+
+}
+
+#contact{
+    background-color: #53354A;
+    padding-bottom: 100rem;
+}
+
+#navprime{
+    background-color: #2B2E4A;
+}
+
+/* FIXED */
+
+body{
+    position:relative;
+}
+
+
+
+
+
+
+/* classes */
+
+.head1{
+    padding-top: 10%;
+    
+}
+.Head1-text{
+    font-family: 'Press Start 2P', cursive;
+    color: #F9DBBB;
+    letter-spacing: 1rem;
+
+}
+
+.head1{
+    text-align: center;
+}
+
+.imageself{
+    margin-top: 5%;
+}
+
+.circleimage{
+    border-radius: 100%;
+    background-color: #903749;
+}
+
+.nav-item{
+    font-size: 1.5rem;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.nav-link{
+    color: #F9DBBB;
+}
