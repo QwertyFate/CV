@@ -2,10 +2,10 @@
 
 #title{
     background-color: #2B2E4A;
-    padding-bottom: 100rem;
+    padding-bottom: 10%;
 }
 
-#aboutme{
+#skills{
     background-color: #E84545;
     padding-bottom: 100rem;
 }
@@ -23,8 +23,12 @@
 
 #navprime{
     background-color: #2B2E4A;
+    opacity: .8;
 }
 
+#navs{
+    padding-right: 10%;
+}
 /* FIXED */
 
 body{
@@ -48,6 +52,13 @@ body{
     letter-spacing: 1rem;
 
 }
+.navbar-brand{
+    font-size: 1.5rem;
+    font-family: 'Press Start 2P', cursive;
+    color: #F9DBBB;
+    margin: auto 0 0 5%;
+
+}
 
 .head1{
     text-align: center;
@@ -65,8 +76,20 @@ body{
 .nav-item{
     font-size: 1.5rem;
     font-family: 'Press Start 2P', cursive;
+    margin: 0 1%;
 }
 
 .nav-link{
     color: #F9DBBB;
+}
+
+.active{
+    text-decoration-line: underline ;
+}
+.introduction{
+    margin: 5% auto;
+    color: #F9DBBB;
+    font-size: 1.5rem;
+    font-family: 'Press Start 2P', cursive;
+    max-width: 50%;
 }
